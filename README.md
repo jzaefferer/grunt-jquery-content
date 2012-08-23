@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jzaefferer/grunt-jquery-content.png)](http://travis-ci.org/jzaefferer/grunt-jquery-content)
 # grunt-jquery-content
 
 A collection of tasks for building the jQuery websites
